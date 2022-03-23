@@ -1,4 +1,4 @@
-# Blockchain:  Getting Smarter with Smart Contract
+# Smart Contract:  a game changer
 
 ## Overview and Origin
 
@@ -34,6 +34,23 @@ Blockchain transaction records are encrypted, which makes them very hard to hack
 
 #### Savings
 Smart contracts remove the need for intermediaries to handle transactions and, by extension, their associated time delays and fees.
+
+## Competition
+Ethereum has been a popular platform, and has attracted millions of daily users to its platform.  The increases in people using the platform has resulted in transactional bottlenecks, high gas fees (transaction fees to interacct with platform), inefficient energy consumption and slow processing.  While Ethereum is not going away and need time to get their house in order, new blockchain cryptos are growing in popularity and eating up Ethereum's market share. Some of these blockchians, are Layer 2 solutions built on Ethereum, copy of Ethereum with an updated protocol or a complete new take on how a private blockchain should work. Some of the notable projects are as follow
+
+### Polkadot
+Polkadot, described as "Next generation Blockchian" was cofounded by one of the Ethereum's cofounder - Gavin Woods,  was conceptualized as a part of the Web 3.0 hierarchy. Polkadot, connects multiple chains to greatly improve scalability and security. Polkadot crypto lets developers create their own blockchains, termed Parachains. These blockchains use Polkadot’s relay to speed and scale up transactions.
+
+### Cardano
+Cardano, founded by Ethereum's cofounder Charles Hoskinsen, is considered a third generation Blockahin, Cardano supports Proof of stake mechanism on its platform, which is considered a more environmentally sustainable alternative to Ethereum.  Cardano recently got updated to smart contract functionality via Alonzo hard fork in, *September of 2021*.
+Time will tell whether Cardano can unseat Ethereum, or if similar learning curves will occur as more users transact on the Cardano blockchain.
+
+### Solana
+Solana, also touted as a fourth-generation blockchain that supports Proof-of-History - similar to Proof-of-Stake but with time stamping to speed up the process further.  Solana has a blazing fast block time of 400ms as compared to Ethereum’s 10-second and Bitcoin’s 10-minute limit. It comes with built-in support for smart contracts. 
+
+
+
+
 
 
 
