@@ -51,9 +51,17 @@ Solana, also touted as a fourth-generation blockchain that supports Proof-of-His
 **There are other notable competitoes like Avalanche, Fantom, Matic (a layer 2 solution on Ethereum), but they need more time to prove if they are worthy Ethereum competitors**
 
 ## Recommendation:
-For Ethereum to give its users a world class service would have to get their house in order.  One of the biggest challenge for Ethereum had been its scaling problem
+For Ethereum to become a dominat player in Blockchian space, would have to get their house in order first.  One of the biggest challenge for Ethereum had been its scaling issue.  The gas fees are in hundreds, rather than in pennies (as was envisaged), transaction takes much longer than some of the competitors.
+I believe, Ethereum would have to:
 
-## Reference
+
+## Repository:  
+*[IBM](https://www.ibm.com/topics/smart-contracts)*
+*[Coindesk](https://www.coindesk.com/tech/2022/02/10/the-top-ethereum-killers-compared/)*
+*[Medium](https://medium.com/lumiwallet/ethereum-explained-problems-basics-and-predictions-a5b5bee1e4a4)*
+*[Money USA](https://money.usnews.com/investing/cryptocurrency/articles/blockchain-investments-that-compete-with-ethereum)*
+*[Ethereum.org](https://ethereum.org/)*
+
 
 
 
