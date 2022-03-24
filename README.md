@@ -1,6 +1,6 @@
 # Ethereum: Second generation Blockchain
 
-![Ethereum: Second generation Blockchain]https://user-images.githubusercontent.com/85688247/159845853-8c0046a6-47da-4c27-b13b-463b84f4ab7b.jpg
+![Future of Internet](https://user-images.githubusercontent.com/85688247/159845853-8c0046a6-47da-4c27-b13b-463b84f4ab7b.jpg)
 
 ## Overview and Origin
 
