@@ -14,13 +14,14 @@ Ethereum whitepaper describes the protocol as “Ethereum is a project which att
 Ethereum’s permissionless blockchain enables creation and development of applications, also called decentralised applications (dApps), without oversight from central authorities.  Ethereum utilises smart contract, a self-executing code, to carry out a set of instructions, which are then verified on the blockchain. The smart contracts are trustless, autonomous, decentralized, and transparent and are irreversible and unmodifiable once deployed.  
 Smart contracts on Ethereum has been a game changer.  Most of the blockchain projects are trying to bring smart contract functionalities to their protocols.  Smart contracts are the key element of Ethereum. In them any algorithm can be encoded. Smart contracts are computer protocols that digitally facilitate the execution of an agreement, which are kept in public databases.	
 Smart contract has multiple use cases and can be used in variety of fields.  Few examples are as follow:
-•	Government voting system:
+
+**Government voting system:**
 Smart contracts, as been trailed by sovereign countries at national and local level, to provide a secure environment making the voting system less susceptible to manipulation.
-•	Financial services: 
+**Financial services:**
 Smart contracts help in transforming traditional financial services in multiple ways. In the case of insurance claims, they perform error checking, routing, and transfer payments to the user if everything is found appropriate.
-•	Decentralised Finance:
+**Decentralised Finance:**
 Decentralised exchanges and wallets using smart contract to execute complex transactions removing the need of an intermediating party.
-•	Gaming
+**Gaming**
 Smart contracts allow developers to regulate their gaming economies by setting specific predefined conditions to control trading.
 
 ### Key benefits of Smart contracts:
