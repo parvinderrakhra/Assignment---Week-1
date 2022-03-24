@@ -54,6 +54,16 @@ Solana, also touted as a fourth-generation blockchain that supports Proof-of-His
 For Ethereum to become a dominat player in Blockchian space, would have to get their house in order first.  One of the biggest challenge for Ethereum had been its scaling issue.  The gas fees are in hundreds, rather than in pennies (as was envisaged), transaction takes much longer than some of the competitors.
 I believe, Ethereum would have to:
 
+1. Move to proof of stake consensus mechanism, from proof of work, to solve the scaling and gas price issue.  It would also address the debate around the eneregy itensiveness of proof of work mechanism 
+
+2. Support dapp (decentralised application) developers to build  more and more dapps on Layer 2 solutions like Polygon, Arbitrum and others, as they can take lot of work load off Ethereum Layer 1.
+
+3. Provide funding, from cash rich Ethereum treasury, towards innovative developement like ZKrollups, optimistic roll-up, ZKsync and others.  This would support innovative, but cast strapped projects to get on war footing.
+
+## Conclusion
+In summary Ethereum is a huge, an ever growing ecosystem that brings a lot of value to Blockchain ecosysmt.  It has got all the ingredients that it takes to change the world, but it won’t while Gas prices and scalability remains stays, it would keep an average user off the ecosystem. So for mass adoption, Ethereum would have to start fixing these problems at warp speed.
+
+
 
 ## Repository:  
 *[IBM](https://www.ibm.com/topics/smart-contracts)*
