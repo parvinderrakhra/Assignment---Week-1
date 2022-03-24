@@ -1,4 +1,4 @@
-# Smart Contract:  a game changer
+# Ethereum:  Second generation Blockchain
 
 ## Overview and Origin
 
@@ -47,6 +47,13 @@ Time will tell whether Cardano can unseat Ethereum, or if similar learning curve
 
 ### Solana
 Solana, also touted as a fourth-generation blockchain that supports Proof-of-History - similar to Proof-of-Stake but with time stamping to speed up the process further.  Solana has a blazing fast block time of 400ms as compared to Ethereum’s 10-second and Bitcoin’s 10-minute limit. It comes with built-in support for smart contracts. 
+
+**There are other notable competitoes like Avalanche, Fantom, Matic (a layer 2 solution on Ethereum), but they need more time to prove if they are worthy Ethereum competitors**
+
+## Recommendation:
+For Ethereum to give its users a world class service would have to get their house in order.  One of the biggest challenge for Ethereum had been its scaling problem
+
+## Reference
 
 
 
